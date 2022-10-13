@@ -1,0 +1,34 @@
+a {
+  margin-left: 20px;
+}
+  h3 {
+    color: rgb(50, 50, 239);
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  h5 {
+    color: rgb(50, 50, 239);
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h6 {
+    color: rgb(50, 50, 239);
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  p {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  li {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  ul {
+    padding-left: 20px;
+  }
